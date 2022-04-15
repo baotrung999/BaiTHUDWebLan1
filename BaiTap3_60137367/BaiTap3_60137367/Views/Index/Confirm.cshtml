@@ -1,0 +1,50 @@
+﻿@model BaiTap3_60137367.Models.EmpModel
+
+@{
+    ViewBag.Title = "Confirm";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Confirm</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/Data/main.css" />
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+</head>
+<body>
+    <div class="container">
+        <h1 class="text-center">Thông tin thành viên đã đăng ký</h1>
+        <div class="row">
+            <div class="col-xs-12 col-sm-12 col-md-4 well well-sm col-md-offset-4">
+                <table>
+                    <tr>
+                        <td>
+                            <img style="width: 190px; height: 200px; border-radius: 100px; align-self: center; display: flex; margin: auto;" src="@ViewBag.Avatar" />
+                        </td>
+                        <td>
+                            <form name="f1" action="/Index/Index" method="post">
+                                <label class="p-3 mb-2 bg-danger text-white">Mã số nhân viên: @ViewBag.EmpID</label>
+                                <label class="p-3 mb-2 bg-danger text-white">Họ tên: @ViewBag.Name</label>
+                                <label class="p-3 mb-2 bg-danger text-white">Ngày sinh: @ViewBag.BirthOfDate</label>
+                                <label class="p-3 mb-2 bg-danger text-white" for="">Email: @ViewBag.Email</label>
+                                <label class="p-3 mb-2 bg-danger text-white" for=""> Mật khẩu: @ViewBag.Password</label>
+                                <label class="p-3 mb-2 bg-danger text-white" for="">Đơn vị: @ViewBag.Department</label>
+                                <button class="btn btn-lg btn-primary btn-block" type="submit">Quay lại</button>
+                            </form>
+                        </td>
+                    </tr>
+                </table>
+
+
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+
+

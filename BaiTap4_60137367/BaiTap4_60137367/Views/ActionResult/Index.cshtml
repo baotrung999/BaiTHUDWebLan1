@@ -1,0 +1,48 @@
+﻿@model BaiTap4_60137367.Models.MailInfo
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
+
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</head>
+
+<body>
+    <div class="container">
+        <h1 class="text-center">Chức năng gửi email</h1>
+        <div class="row">
+            <div class="col-xs-12 col-sm-12 col-md-4 well well-sm col-md-offset-4">
+                <form name="f1" action="/ActionResult/Index" method="post" class="form" enctype="multipart/form-data">
+
+                    <label>Gửi từ email: </label>
+                    <input class="form-control" name="From" placeholder="Gửi từ email" />
+                    <label>Mật khẩu: </label>
+                    <input class="form-control" type="password" name="Password" placeholder="Mật khẩu" />
+                    <label>Gửi đến email: </label>
+                    <input class="form-control" name="To" placeholder="Gửi đến email" />
+                    <label>Tiêu đề: </label>
+                    <input class="form-control" name="Subject" placeholder="Tiêu đề" />
+                    <label>Nội dung: </label>
+                    <textarea class="form-control" name="Body"></textarea>
+
+                    <button class="btn btn-lg btn-primary btn-block" type="submit">
+                        Gửi email
+                    </button>
+                </form>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
+
