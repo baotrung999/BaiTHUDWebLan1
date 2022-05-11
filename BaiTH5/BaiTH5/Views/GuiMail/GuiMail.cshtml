@@ -1,0 +1,42 @@
+﻿@model BaiTH5.Models.MailInfo
+
+@{
+    ViewBag.Title = "GuiMail";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
+
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</head>
+<div class="container">
+    <h1 class="">Chức năng gửi email</h1>
+    <div class="row">
+        <div class="col-xs-12 col-sm-10 col-md-4 well well-sm col-md-offset-1">
+            <form name="f1" action="/GuiMail/GuiMail" method="post" class="form" enctype="multipart/form-data">
+                <label>Gửi từ email: </label>
+                    <input class="form-control" name="From" placeholder="Gửi từ email" /><br>
+                <label>Mật khẩu: </label>
+                    <input class="form-control" type="password" name="Password" placeholder="Mật khẩu" /><br>
+                <label>Gửi đến email: </label>
+                    <input class="form-control" name="To" placeholder="Gửi đến email" /><br>
+                <label>Tiêu đề: </label>
+                    <input class="form-control" name="Subject" placeholder="Tiêu đề" /><br>
+                <label>Nội dung: </label>
+                <textarea class="form-control" name="Body"></textarea><br>
+
+                <button class="btn btn-lg btn-primary btn-block" type="submit">
+                    Gửi email
+                </button>
+            </form>
+        </div>
+    </div>
+</div>
+</html>
+

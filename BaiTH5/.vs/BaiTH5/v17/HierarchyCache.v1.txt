@@ -1,0 +1,206 @@
+﻿++Solution 'BaiTH5' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:BaiTH5.sln
+++BaiTH5
+i:{00000000-0000-0000-0000-000000000000}:BaiTH5
+++Properties
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:e:\hk2-n4\pt web\baith5\baith5\properties\
+++References
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:
+++App_Data
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:e:\hk2-n4\pt web\baith5\baith5\app_data\
+++App_Start
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:e:\hk2-n4\pt web\baith5\baith5\app_start\
+++Content
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:e:\hk2-n4\pt web\baith5\baith5\content\
+++bootstrap-theme.css
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:e:\hk2-n4\pt web\baith5\baith5\content\bootstrap-theme.css
+++bootstrap-theme.css.map
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:e:\hk2-n4\pt web\baith5\baith5\content\bootstrap-theme.css.map
+++bootstrap-theme.min.css
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:e:\hk2-n4\pt web\baith5\baith5\content\bootstrap-theme.min.css
+++bootstrap-theme.min.css.map
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:e:\hk2-n4\pt web\baith5\baith5\content\bootstrap-theme.min.css.map
+++bootstrap.css
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:e:\hk2-n4\pt web\baith5\baith5\content\bootstrap.css
+++bootstrap.css.map
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:e:\hk2-n4\pt web\baith5\baith5\content\bootstrap.css.map
+++bootstrap.min.css
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:e:\hk2-n4\pt web\baith5\baith5\content\bootstrap.min.css
+++bootstrap.min.css.map
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:e:\hk2-n4\pt web\baith5\baith5\content\bootstrap.min.css.map
+++Site.css
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:e:\hk2-n4\pt web\baith5\baith5\content\site.css
+++Controllers
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:e:\hk2-n4\pt web\baith5\baith5\controllers\
+++fonts
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:e:\hk2-n4\pt web\baith5\baith5\fonts\
+++Images
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:e:\hk2-n4\pt web\baith5\baith5\images\
+++Models
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:e:\hk2-n4\pt web\baith5\baith5\models\
+++Scripts
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:e:\hk2-n4\pt web\baith5\baith5\scripts\
+++bootstrap.js
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:e:\hk2-n4\pt web\baith5\baith5\scripts\bootstrap.js
+++bootstrap.min.js
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:e:\hk2-n4\pt web\baith5\baith5\scripts\bootstrap.min.js
+++jquery-3.4.1.intellisense.js
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:e:\hk2-n4\pt web\baith5\baith5\scripts\jquery-3.4.1.intellisense.js
+++jquery-3.4.1.js
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:e:\hk2-n4\pt web\baith5\baith5\scripts\jquery-3.4.1.js
+++jquery-3.4.1.min.js
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:e:\hk2-n4\pt web\baith5\baith5\scripts\jquery-3.4.1.min.js
+++jquery-3.4.1.min.map
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:e:\hk2-n4\pt web\baith5\baith5\scripts\jquery-3.4.1.min.map
+++jquery-3.4.1.slim.js
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:e:\hk2-n4\pt web\baith5\baith5\scripts\jquery-3.4.1.slim.js
+++jquery-3.4.1.slim.min.js
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:e:\hk2-n4\pt web\baith5\baith5\scripts\jquery-3.4.1.slim.min.js
+++jquery-3.4.1.slim.min.map
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:e:\hk2-n4\pt web\baith5\baith5\scripts\jquery-3.4.1.slim.min.map
+++jquery.validate-vsdoc.js
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:e:\hk2-n4\pt web\baith5\baith5\scripts\jquery.validate-vsdoc.js
+++jquery.validate.js
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:e:\hk2-n4\pt web\baith5\baith5\scripts\jquery.validate.js
+++jquery.validate.min.js
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:e:\hk2-n4\pt web\baith5\baith5\scripts\jquery.validate.min.js
+++jquery.validate.unobtrusive.js
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:e:\hk2-n4\pt web\baith5\baith5\scripts\jquery.validate.unobtrusive.js
+++jquery.validate.unobtrusive.min.js
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:e:\hk2-n4\pt web\baith5\baith5\scripts\jquery.validate.unobtrusive.min.js
+++modernizr-2.8.3.js
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:e:\hk2-n4\pt web\baith5\baith5\scripts\modernizr-2.8.3.js
+++Views
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:e:\hk2-n4\pt web\baith5\baith5\views\
+++Home
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:e:\hk2-n4\pt web\baith5\baith5\views\home\
+++Shared
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:e:\hk2-n4\pt web\baith5\baith5\views\shared\
+++_Layout.cshtml
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:e:\hk2-n4\pt web\baith5\baith5\views\shared\_layout.cshtml
+++_LayoutAdmin.cshtml
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:e:\hk2-n4\pt web\baith5\baith5\views\shared\_layoutadmin.cshtml
+++Error.cshtml
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:e:\hk2-n4\pt web\baith5\baith5\views\shared\error.cshtml
+++_ViewStart.cshtml
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:e:\hk2-n4\pt web\baith5\baith5\views\_viewstart.cshtml
+++Web.config
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:e:\hk2-n4\pt web\baith5\baith5\views\web.config
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:e:\hk2-n4\pt web\baith5\baith5\web.config
+++favicon.ico
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:e:\hk2-n4\pt web\baith5\baith5\favicon.ico
+++Global.asax
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:e:\hk2-n4\pt web\baith5\baith5\global.asax
+++packages.config
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:e:\hk2-n4\pt web\baith5\baith5\packages.config
+++AssemblyInfo.cs
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:e:\hk2-n4\pt web\baith5\baith5\properties\assemblyinfo.cs
+++Antlr3.Runtime
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:
+++Microsoft.CSharp
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:
+++Microsoft.Web.Infrastructure
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:
+++Newtonsoft.Json
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:
+++System
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:
+++System.ComponentModel.DataAnnotations
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:
+++System.Configuration
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:
+++System.Core
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:
+++System.Data
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:
+++System.Data.DataSetExtensions
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:
+++System.Drawing
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:
+++System.EnterpriseServices
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:
+++System.Net.Http
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:
+++System.Net.Http.WebRequest
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:
+++System.Web
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:
+++System.Web.Abstractions
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:
+++System.Web.ApplicationServices
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:
+++System.Web.DynamicData
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:
+++System.Web.Entity
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:
+++System.Web.Extensions
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:
+++System.Web.Helpers
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:
+++System.Web.Mvc
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:
+++System.Web.Optimization
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:
+++System.Web.Razor
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:
+++System.Web.Routing
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:
+++System.Web.Services
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:
+++System.Web.WebPages
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:
+++System.Web.WebPages.Deployment
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:
+++System.Web.WebPages.Razor
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:
+++System.Xml
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:
+++System.Xml.Linq
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:
+++WebGrease
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:
+++BundleConfig.cs
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:e:\hk2-n4\pt web\baith5\baith5\app_start\bundleconfig.cs
+++FilterConfig.cs
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:e:\hk2-n4\pt web\baith5\baith5\app_start\filterconfig.cs
+++RouteConfig.cs
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:e:\hk2-n4\pt web\baith5\baith5\app_start\routeconfig.cs
+++HomeController.cs
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:e:\hk2-n4\pt web\baith5\baith5\controllers\homecontroller.cs
+++glyphicons-halflings-regular.eot
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:e:\hk2-n4\pt web\baith5\baith5\fonts\glyphicons-halflings-regular.eot
+++glyphicons-halflings-regular.svg
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:e:\hk2-n4\pt web\baith5\baith5\fonts\glyphicons-halflings-regular.svg
+++glyphicons-halflings-regular.ttf
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:e:\hk2-n4\pt web\baith5\baith5\fonts\glyphicons-halflings-regular.ttf
+++glyphicons-halflings-regular.woff
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:e:\hk2-n4\pt web\baith5\baith5\fonts\glyphicons-halflings-regular.woff
+++glyphicons-halflings-regular.woff2
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:e:\hk2-n4\pt web\baith5\baith5\fonts\glyphicons-halflings-regular.woff2
+++About.cshtml
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:e:\hk2-n4\pt web\baith5\baith5\views\home\about.cshtml
+++Contact.cshtml
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:e:\hk2-n4\pt web\baith5\baith5\views\home\contact.cshtml
+++Index.cshtml
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:e:\hk2-n4\pt web\baith5\baith5\views\home\index.cshtml
+++Global.asax.cs
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:e:\hk2-n4\pt web\baith5\baith5\global.asax.cs
+++Web.Debug.config
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:e:\hk2-n4\pt web\baith5\baith5\web.debug.config
+++Web.Release.config
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:e:\hk2-n4\pt web\baith5\baith5\web.release.config
+++StyleAdmin.css
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:e:\hk2-n4\pt web\baith5\baith5\content\styleadmin.css
+++ChangeBanner
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:e:\hk2-n4\pt web\baith5\baith5\views\changebanner\
+++ChangeBannerController.cs
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:e:\hk2-n4\pt web\baith5\baith5\controllers\changebannercontroller.cs
+++ChangeBanner.cshtml
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:e:\hk2-n4\pt web\baith5\baith5\views\changebanner\changebanner.cshtml
+++Banner.txt
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:e:\hk2-n4\pt web\baith5\baith5\banner.txt
+++tải xuống (1).jpg
+++logo.jpg
+i:{ab789cd2-38c1-46ca-bc44-90e4e1fce877}:e:\hk2-n4\pt web\baith5\baith5\images\logo.jpg
